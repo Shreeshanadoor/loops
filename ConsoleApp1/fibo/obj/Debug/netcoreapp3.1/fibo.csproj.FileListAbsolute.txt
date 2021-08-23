@@ -1,0 +1,14 @@
+C:\Users\Shreesha\Desktop\loops\ConsoleApp1\fibo\obj\Debug\netcoreapp3.1\fibo.csproj.AssemblyReference.cache
+C:\Users\Shreesha\Desktop\loops\ConsoleApp1\fibo\obj\Debug\netcoreapp3.1\fibo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shreesha\Desktop\loops\ConsoleApp1\fibo\obj\Debug\netcoreapp3.1\fibo.AssemblyInfoInputs.cache
+C:\Users\Shreesha\Desktop\loops\ConsoleApp1\fibo\obj\Debug\netcoreapp3.1\fibo.AssemblyInfo.cs
+C:\Users\Shreesha\Desktop\loops\ConsoleApp1\fibo\obj\Debug\netcoreapp3.1\fibo.csproj.CoreCompileInputs.cache
+C:\Users\Shreesha\Desktop\loops\ConsoleApp1\fibo\bin\Debug\netcoreapp3.1\fibo.exe
+C:\Users\Shreesha\Desktop\loops\ConsoleApp1\fibo\bin\Debug\netcoreapp3.1\fibo.deps.json
+C:\Users\Shreesha\Desktop\loops\ConsoleApp1\fibo\bin\Debug\netcoreapp3.1\fibo.runtimeconfig.json
+C:\Users\Shreesha\Desktop\loops\ConsoleApp1\fibo\bin\Debug\netcoreapp3.1\fibo.runtimeconfig.dev.json
+C:\Users\Shreesha\Desktop\loops\ConsoleApp1\fibo\bin\Debug\netcoreapp3.1\fibo.dll
+C:\Users\Shreesha\Desktop\loops\ConsoleApp1\fibo\bin\Debug\netcoreapp3.1\fibo.pdb
+C:\Users\Shreesha\Desktop\loops\ConsoleApp1\fibo\obj\Debug\netcoreapp3.1\fibo.dll
+C:\Users\Shreesha\Desktop\loops\ConsoleApp1\fibo\obj\Debug\netcoreapp3.1\fibo.pdb
+C:\Users\Shreesha\Desktop\loops\ConsoleApp1\fibo\obj\Debug\netcoreapp3.1\fibo.genruntimeconfig.cache
